@@ -8,6 +8,10 @@ dist/
 # Environment files
 .env
 
+# Large video files
+video.mov
+"client/Task Manager/video.mov"
+
 # OS files
 .DS_Store
 
